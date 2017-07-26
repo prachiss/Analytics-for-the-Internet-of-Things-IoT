@@ -10,7 +10,7 @@ Cloud resources are a great match for IoT analytics, so Amazon Web Services, Mic
 By the end of the book, you’ll know how to handle scale for both data storage and analytics, how Apache Spark can be leveraged to handle scalability, and how R and Python can be used for analytic modeling.
 
 ## Instructions and Navigation
-All of the code is organized into folders.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
 
